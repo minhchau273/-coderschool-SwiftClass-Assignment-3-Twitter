@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Twitter.TweetsViewController.(loadData (Twitter.TweetsViewController) -&gt; () -&gt; ()).(closure #1):TweetsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Twitter.Tweet.handleRetweet (Twitter.Tweet)() -&gt; Swift.Int:Tweet.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Twitter.TweetCell.tweet.didset : Swift.ImplicitlyUnwrappedOptional&lt;Twitter.Tweet&gt;:TweetCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagesViewTmp.superview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Twitter.TweetCell.addConstraintImagesView (Twitter.TweetCell)(ObjectiveC.UIView) -&gt; ():TweetCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmpView.superview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
